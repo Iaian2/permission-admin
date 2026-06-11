@@ -162,3 +162,7 @@ npm run preview
 ## 📄 License
 
 MIT
+
+---
+
+**作者**: 3108565030@qq.com
